@@ -4,10 +4,10 @@ A project for education purposes using Graphql with the Typegraphql package, whi
 
 ## Built with
 
-- ![ApolloGraphQL][ApolloGraphQL]
-- ![TypeScript][TypeScript]
-- ![Prisma][Prisma]
+* ![ApolloGraphQL][ApolloGraphQL]
+* ![TypeScript][TypeScript]
+* ![Prisma][Prisma]
 
-[ApolloGraphQL]: https://img.shields.io/badge/apollographql-311C87?style=for-the-badge logo=apollographql&logoColor=white
-[TypeScript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge logo=typescript&logoColor=white
-[Prisma]: https://img.shields.io/badge/prisma-2D3748?style=for-the-badge logo=prisma&logoColor=white
+[ApolloGraphQL]: https://img.shields.io/badge/apollographql-311C87?style=for-the-badge&logo=apollographql&logoColor=white
+[TypeScript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[Prisma]: https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
